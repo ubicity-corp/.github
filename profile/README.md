@@ -1,4 +1,2 @@
-# Ubicity Corporation
-
-This organization contains private repositories managed by Ubicity
-Corporation.
+## TOSCA Orchestration
+This organization contains repositories for Ubicity Corp's suite of TOSCA orchestration tools.
