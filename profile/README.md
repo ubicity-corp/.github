@@ -11,7 +11,8 @@ TOSCA Orchestration engine.
 ### TOSCA Profiles
 
 [`tosca-profiles`](https://github.com/ubicity-corp/tosca-profiles): A
-collection of TOSCA profiles.
+collection of TOSCA profiles. This repository also documents the
+design patterns used by Ubicity in TOSCA profile design.
 
 ### Translators
 
