@@ -21,3 +21,11 @@ yang schemas to TOSCA data types.
 
 [`oas2tosca`](https://github.com/ubicity-corp/oas2tosca): Convert
 OpenAPI definitions to TOSCA types.
+
+### OPAS Profiles and Services
+
+[`opas-tosca`](https://github.com/ubicity-corp/opas-tosca): Sandbox
+for profiles and services developed in the context of the [Open
+Process Automation
+Forum](https://www.opengroup.org/forum/open-process-automation-forum)'s
+standardization work.
