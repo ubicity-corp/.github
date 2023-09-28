@@ -8,6 +8,9 @@ TOSCA Orchestration engine.
 [`tosca-profiles`](https://github.com/ubicity-corp/tosca-profiles): A
 collection of TOSCA profiles. This repository also documents the
 design patterns used by Ubicity in TOSCA profile design.
+### TOSCA Services
+[`tosca-svcs`](https://github.com/ubicity-corp/tosca-svcs): A
+collection of TOSCA services that leverage the TOSCA profiles.
 ### TOSCA Tests
 [`tosca-tests`](https://github.com/ubicity-corp/tosca-tests): A
 collection of TOSCA test cases for the Ubicity TOSCA Orchestraton
