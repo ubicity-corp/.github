@@ -1,9 +1,12 @@
 ## TOSCA Orchestration Tools
 This organization contains repositories for Ubicity Corp's suite of
 TOSCA orchestration tools. It includes the following categories:
-### Orchestrator
+### Ubicity Orchestrator
 [`ubicity`](https://github.com/ubicity-corp/ubicity): The core Ubicity
 TOSCA Orchestration engine.
+### Ubicity CLI
+[`ubct-cli`](https://github.com/ubicity-corp/ubct-cli): The Ubicity
+Command Line Tool for interacting with the Ubicity TOSCA Orchestrator.
 ### TOSCA Profiles
 [`tosca-profiles`](https://github.com/ubicity-corp/tosca-profiles): A
 collection of TOSCA profiles. This repository also documents the
