@@ -10,8 +10,8 @@ Command Line Tool for interacting with the Ubicity TOSCA Orchestrator.
 ### TOSCA Profiles
 [`tosca-profiles`](https://github.com/ubicity-corp/tosca-profiles): A
 collection of TOSCA profiles.
-### TOSCA Profile Design Patterns
-[`tosca-patterns`](https://github.com/ubicity-corp/tosca-patterns):
+### TOSCA Design Patterns
+[`tosca-design`](https://github.com/ubicity-corp/tosca-design):
 This repository documents the design patterns used by Ubicity in TOSCA
 profile design.
 ### TOSCA Services
