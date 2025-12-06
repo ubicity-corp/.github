@@ -18,6 +18,9 @@ collection of TOSCA services that leverage the TOSCA profiles.
 collection of TOSCA test cases for the Ubicity TOSCA Orchestraton
 engine.
 ### Translators
+[`ans2tosca`](https://github.com/ubicity-corp/ans2tosca): Convert
+Ansible to TOSCA.
+
 [`yang2tosca`](https://github.com/ubicity-corp/yang2tosca): Convert
 yang schemas to TOSCA data types.
 
