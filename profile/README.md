@@ -17,15 +17,9 @@ collection of TOSCA services that leverage the TOSCA profiles.
 [`tosca-tests`](https://github.com/ubicity-corp/tosca-tests): A
 collection of TOSCA test cases for the Ubicity TOSCA Orchestraton
 engine.
-### Translators
-[`ans2tosca`](https://github.com/ubicity-corp/ans2tosca): Convert
-Ansible to TOSCA.
-
-[`yang2tosca`](https://github.com/ubicity-corp/yang2tosca): Convert
-yang schemas to TOSCA data types.
-
-[`oas2tosca`](https://github.com/ubicity-corp/oas2tosca): Convert
-OpenAPI definitions to TOSCA types.
+### TOSCA Translators
+[`any2tosca`](https://github.com/ubicity-corp/any2tosca): Convert
+industry-standard schema formats to TOSCA v2.0
 ### OPAS Profiles and Services
 [`opas-tosca`](https://github.com/ubicity-corp/opas-tosca): Sandbox
 for profiles and services developed in the context of the [Open
