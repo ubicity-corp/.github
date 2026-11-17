@@ -1,28 +1,18 @@
 ## TOSCA Orchestration Tools
 This organization contains repositories for Ubicity Corp's suite of
-TOSCA orchestration tools. It includes the following categories:
-### Ubicity Orchestrator
-[`ubicity`](https://github.com/ubicity-corp/ubicity): The core Ubicity
-TOSCA Orchestration engine.
-### Ubicity CLI
-[`ubct-cli`](https://github.com/ubicity-corp/ubct-cli): The Ubicity
-Command Line Tool for interacting with the Ubicity TOSCA Orchestrator.
-### TOSCA Profiles
-[`tosca-profiles`](https://github.com/ubicity-corp/tosca-profiles): A
-collection of TOSCA profiles.
-### TOSCA Services
-[`tosca-svcs`](https://github.com/ubicity-corp/tosca-svcs): A
-collection of TOSCA services that leverage the TOSCA profiles.
-### TOSCA Tests
-[`tosca-tests`](https://github.com/ubicity-corp/tosca-tests): A
-collection of TOSCA test cases for the Ubicity TOSCA Orchestraton
-engine.
+TOSCA orchestration tools.
+### TOSCA Parser and Validator
+[`tosca-core`](https://github.com/ubicity-corp/tosca-core): An
+open-source parser and semantic validator for TOSCA 2.0 and the TOSCA
+Simple Profile in YAML 1.3, available on
+[PyPI](https://pypi.org/project/tosca-core/).
 ### TOSCA Translators
 [`any2tosca`](https://github.com/ubicity-corp/any2tosca): Convert
 industry-standard schema formats to TOSCA v2.0
-### OPAS Profiles and Services
-[`opas-tosca`](https://github.com/ubicity-corp/opas-tosca): Sandbox
-for profiles and services developed in the context of the [Open
-Process Automation
-Forum](https://www.opengroup.org/forum/open-process-automation-forum)'s
-standardization work.
+### Ubicity Orchestrator
+The Ubicity Orchestrator is a TOSCA runtime that manages the complete
+lifecycle of the systems a TOSCA service template describes, driven
+entirely by TOSCA semantics. It is built on `tosca-core` and comes
+with a command line tool, a library of TOSCA profiles and services
+that use them, and a suite of TOSCA test cases. To learn more or to
+request access, visit [ubicity.com](https://ubicity.com).
