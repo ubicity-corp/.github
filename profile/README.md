@@ -20,11 +20,10 @@ from [PyPI](https://pypi.org/project/tosca-core/); issues and pull
 requests are welcome.
 ### Model Translators
 - [`any2tosca`](https://github.com/ubicity-corp/any2tosca): Convert
-  JSON Schema files to TOSCA profiles.
-- [`oas2tosca`](https://github.com/ubicity-corp/oas2tosca): Convert
-  Swagger definitions to TOSCA data types.
-- [`yang2tosca`](https://github.com/ubicity-corp/yang2tosca): A pyang
-  plugin that converts YANG modules to TOSCA data type definitions.
+  JSON Schema, OpenAPI, Redfish and YANG schemas to TOSCA 2.0 node types
+  and data types.
+- [`oas2tosca`](https://github.com/ubicity-corp/oas2tosca): Convert the
+  Kubernetes OpenAPI definitions to TOSCA profiles, one per API group.
 ### Ubicity Orchestrator
 The Ubicity Orchestrator is the production runtime built on
 `tosca-core`. It deploys a TOSCA service template and manages it for
